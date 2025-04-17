@@ -1,0 +1,10 @@
+{
+      "app1": {
+        "privateKey": "<PRIVATE_KEY_FOR_APP1>",
+        "allowedEndpoints": ["/api/app1/data1", "/api/app1/data2", "/api/app1/data2"]
+      },
+      "app2": {
+        "privateKey": "<PRIVATE_KEY_FOR_APP2>",
+        "allowedEndpoints": ["/api/data3"]
+      }
+    }
